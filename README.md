@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://dev.to/vumdao">
-    <img alt="Access Control And OpenSearch Service Security" src="docs/images/cover.jpg" width="800" />
+    <img alt="Access Control And OpenSearch Service Security" src="docs/images/cover.png" width="800" />
   </a>
 </p>
 <h1 align="center">
@@ -12,10 +12,6 @@
 - [[OpenSearch.2] OpenSearch domains should be in a VPC](https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-standards-fsbp-controls.html#opensearch-2-remediation)
 - In this blog, I will walk through create opensearch domain, put it in VPC and how to use NGINX proxy to access OpenSearch Dashboards from outside a VPC that's using Amazon Cognito authentication
 - All AWS resources and settings are done by Cloud development toolkit (CDK-typescript)
-
-<p align="center">
-<img src="docs/images/cover.png" width=900 />
-</p>
 
 ## Table Of Contents
  * [Create opensearch domain](#Create-opensearch-domain)
